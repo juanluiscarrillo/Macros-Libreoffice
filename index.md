@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Macros para LibreOffice
+
+En este repositorio se irán colgando macros que he creado para LibreOffice.
+
 
 You can use the [editor on GitHub](https://github.com/juanluiscarrillo/Macros-Libreoffice/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
