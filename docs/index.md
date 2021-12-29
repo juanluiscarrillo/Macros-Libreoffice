@@ -10,7 +10,11 @@ Con esta macro se pretende generar el boletín de notas de cada uno de los alumn
 
 Para utilizar esta macro, se ha de insertar el contenido del fichero InitalEvaluation2.bas como una macro dentro de la hoja de cálculo InitialEvaluation2.ods. En la parte superior de la hoja de cálculo hay que poner el **Grupo**, la **Fecha firma** y el **Tutor** correspondientes. En la columna **Alumno** hay que poner el nombre y apellidos de cada uno de los alumnos.
 
-La función principal de esta macro (la que hay que ejecutar) es 
+La función principal de esta macro (la que hay que ejecutar) es *makeEvalDocument2*
+
+Para el correcto funcionamiento de la macro es necesario que el archivo *template2IE.odt* esté en la misma carpeta que el archivo de la hoja de cálculo. Este archivo contiene la plantilla del documento. Se puede personalizar cambiando los logos de la cabecera, así como el pie de página.
+
+El documento creado por la macro se guardará también en la misma carpeta.
 
 
 You can use the [editor on GitHub](https://github.com/juanluiscarrillo/Macros-Libreoffice/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
