@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Repositorio de macros para LibreOffice
+
+En este repositorio se irán subiendo macros para LibreOffice.
+
+Las macros disponibles en este momento son:
+- InitialEvaluation2
+
+### InitialEvaluation2
+Con esta macro se pretende generar el boletín de notas de cada uno de los alumnos de un grupo a partir de contenido de una hoja de cálculo.
+
+Para utilizar esta macro, se ha de insertar el contenido del fichero InitalEvaluation2.bas como una macro dentro de la hoja de cálculo InitialEvaluation2.ods. En la parte superior de la hoja de cálculo hay que poner el **Grupo**, la **Fecha firma** y el **Tutor** correspondientes. En la columna **Alumno** hay que poner el nombre y apellidos de cada uno de los alumnos.
+
+La función principal de esta macro (la que hay que ejecutar) es 
+
 
 You can use the [editor on GitHub](https://github.com/juanluiscarrillo/Macros-Libreoffice/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
